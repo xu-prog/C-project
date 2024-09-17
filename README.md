@@ -1,4 +1,4 @@
-This is a shrot C# project called BankSystemApp
+This is a short C# project called BankSystemApp
 
 A simple console-based Bank System Application built in C# that simulates basic banking operations such as 
 account management, deposits, withdrawals, transfers, and transaction history tracking. 
